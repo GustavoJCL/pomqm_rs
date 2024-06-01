@@ -1,5 +1,5 @@
-mod big_m;
-mod graphic_method;
-mod simplex;
-mod simplex_dual;
-mod two_phases;
+pub mod big_m;
+pub mod graphic_method;
+pub mod simplex;
+pub mod simplex_dual;
+pub mod two_phases;
